@@ -1,0 +1,4 @@
+create .env in root and add the following vales
+
+PORT = 8000
+DatabaseUrlLocal = mongodb://localhost:27017/sublime
